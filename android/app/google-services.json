@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1023277026122",
+    "project_id": "ecommerceboxed",
+    "storage_bucket": "ecommerceboxed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023277026122:android:40ee9665f23c6530108fb3",
+        "android_client_info": {
+          "package_name": "com.example.graduationproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1023277026122-8ilbd7ekvlnifreuehechl89v9e04vg7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaB_7gR_Y_V2G3MCmeVmh5lsCfhv8vXWY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1023277026122-8ilbd7ekvlnifreuehechl89v9e04vg7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
